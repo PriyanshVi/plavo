@@ -161,18 +161,7 @@ const Header = () => {
         </div>
       </header>
       {/* Google Map Embed */}
-      <div style={{ width: '100%', height: '300px', marginTop: '10px' }}>
-        <iframe
-          title="Google Map"
-          src="https://maps.google.com/maps?q=South%20Extension%2C%20Arjun%20Nagar%2C%20Kotla%20Mubarakpur%2C%20South%20Extension%20I%2C%20New%20Delhi%2C%20Delhi%20110003%2C%20India&hl=en&z=17&output=embed"
-          width="100%"
-          height="100%"
-          style={{ border: 0 }}
-          allowFullScreen=""
-          loading="lazy"
-          referrerPolicy="no-referrer-when-downgrade"
-        ></iframe>
-      </div>
+      
     </>
   );
 };
